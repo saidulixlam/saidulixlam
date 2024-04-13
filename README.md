@@ -3,14 +3,16 @@
 <img align="right" alt="code" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidulixlam&label=Profile%20views&color=0e75b6&style=flat" alt="saidulixlam" /> </p>
 
-- 🔭 I’m currently working on [email-app](to be updated)
+- 🔭 I’m currently exploring backend development and looking for opportunities...
 
-- 🌱 I’m currently learning **React,NextJs,Redux and many more...**
+- 🌱 I’m currently learning **Express,Mysql,AWS and many more...**
 
-- 🤝 I’m looking for help with [School website](https://saidulixlam.github.io/SchoolWebsiteV1/)
+- 🤝 Your feedback is warmly encouraged and wholeheartedly welcomed.
 
-- 💬 Ask me about **React,Redux etc...**
-
+- 💬 Ask me about **Development,DSA,React,Redux,Nextjs etc...**
+ 
+- 💬 Know more **https://portfolio-saidul.vercel.app/**
+ 
 - 📫 How to reach me **saidulixlam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
